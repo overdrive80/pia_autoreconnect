@@ -1,4 +1,4 @@
-(#) Requeriments
+# Requeriments
 
 ![Texto Alternativo](https://i.postimg.cc/GpnxYcDV/Imagen2.png)
 
