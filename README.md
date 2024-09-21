@@ -1,4 +1,4 @@
-# Requeriments
+# Requirements
 
 1. Settings Jdownloader
 
