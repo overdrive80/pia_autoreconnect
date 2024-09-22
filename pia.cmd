@@ -21,6 +21,7 @@ echo La región seleccionada aleatoriamente es: !seleccionada!
 
 rem Habilitar el modo background
 "%pia%" background enable
+timeout 3
 
 rem Desconectar si ya está conectado
 "%pia%" disconnect
